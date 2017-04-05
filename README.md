@@ -14,8 +14,7 @@ We used the application-programming interface (API), OMDB, to add categories to 
 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://tylerdwalker.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. AJAX stands for Asynchronous JavaScript and XML. It allows data to load from the browser without the extra click of refreshing the page. It leads to faster, better web applications.
