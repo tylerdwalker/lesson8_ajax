@@ -4,19 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 5, 2017
 
 ### Student Name:  
-(First and Last Name)
+Tyler Walker
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We used the application-programming interface (API), OMDB, to add categories to the movie database.
+
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. AJAX stands for Asynchronous JavaScript and XML. It allows data to load from the browser without the extra click of refreshing the page. It leads to faster, better web applications.
+2. JSON stands for  JavaScript Object Notation and XML. It is a JavaScript scripting language extension that transmits data between web applications and servers.
+3. An application-programming interface (API) is what we use to acccess web-based applications and web tools. Today, they are crucial to the web and web development.
